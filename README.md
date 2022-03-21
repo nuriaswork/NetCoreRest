@@ -1,5 +1,5 @@
 # CaducaRest
-Código de ejemplo del tutorial Servicios REST con .NET Core
+Código de ejemplo del tutorial Servicios REST con .NET Core (https://abi.gitbook.io/net-core/)
 
 Se cuenta con las siguientes ramas:
 
